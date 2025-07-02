@@ -24,18 +24,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		449DF0922E158EA80090425C /* Speakie: Speech To Text Notes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Speakie: Speech To Text Notes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		449DF0A82E158EAA0090425C /* Speakie: Speech To Text NotesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Speakie: Speech To Text NotesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		449DF0B22E158EAA0090425C /* Speakie: Speech To Text NotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Speakie: Speech To Text NotesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		449DF0922E158EA80090425C /* Speakie - Speech To Text Notes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Speakie - Speech To Text Notes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		449DF0A82E158EAA0090425C /* Speakie - Speech To Text NotesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Speakie - Speech To Text NotesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		449DF0B22E158EAA0090425C /* Speakie - Speech To Text NotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Speakie - Speech To Text NotesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		449DF0BA2E158EAA0090425C /* Exceptions for "Speakie: Speech To Text Notes" folder in "Speakie: Speech To Text Notes" target */ = {
+		449DF0BA2E158EAA0090425C /* Exceptions for "Speakie: Speech To Text Notes" folder in "Speakie - Speech To Text Notes" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 449DF0912E158EA80090425C /* Speakie: Speech To Text Notes */;
+			target = 449DF0912E158EA80090425C /* Speakie - Speech To Text Notes */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -43,7 +43,7 @@
 		449DF0942E158EA80090425C /* Speakie: Speech To Text Notes */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				449DF0BA2E158EAA0090425C /* Exceptions for "Speakie: Speech To Text Notes" folder in "Speakie: Speech To Text Notes" target */,
+				449DF0BA2E158EAA0090425C /* Exceptions for "Speakie: Speech To Text Notes" folder in "Speakie - Speech To Text Notes" target */,
 			);
 			path = "Speakie: Speech To Text Notes";
 			sourceTree = "<group>";
@@ -98,9 +98,9 @@
 		449DF0932E158EA80090425C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				449DF0922E158EA80090425C /* Speakie: Speech To Text Notes.app */,
-				449DF0A82E158EAA0090425C /* Speakie: Speech To Text NotesTests.xctest */,
-				449DF0B22E158EAA0090425C /* Speakie: Speech To Text NotesUITests.xctest */,
+				449DF0922E158EA80090425C /* Speakie - Speech To Text Notes.app */,
+				449DF0A82E158EAA0090425C /* Speakie - Speech To Text NotesTests.xctest */,
+				449DF0B22E158EAA0090425C /* Speakie - Speech To Text NotesUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		449DF0912E158EA80090425C /* Speakie: Speech To Text Notes */ = {
+		449DF0912E158EA80090425C /* Speakie - Speech To Text Notes */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 449DF0BB2E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie: Speech To Text Notes" */;
+			buildConfigurationList = 449DF0BB2E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie - Speech To Text Notes" */;
 			buildPhases = (
 				449DF08E2E158EA80090425C /* Sources */,
 				449DF08F2E158EA80090425C /* Frameworks */,
@@ -123,16 +123,16 @@
 			fileSystemSynchronizedGroups = (
 				449DF0942E158EA80090425C /* Speakie: Speech To Text Notes */,
 			);
-			name = "Speakie: Speech To Text Notes";
+			name = "Speakie - Speech To Text Notes";
 			packageProductDependencies = (
 			);
 			productName = "Speakie: Speech To Text Notes";
-			productReference = 449DF0922E158EA80090425C /* Speakie: Speech To Text Notes.app */;
+			productReference = 449DF0922E158EA80090425C /* Speakie - Speech To Text Notes.app */;
 			productType = "com.apple.product-type.application";
 		};
-		449DF0A72E158EAA0090425C /* Speakie: Speech To Text NotesTests */ = {
+		449DF0A72E158EAA0090425C /* Speakie - Speech To Text NotesTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 449DF0C02E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie: Speech To Text NotesTests" */;
+			buildConfigurationList = 449DF0C02E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie - Speech To Text NotesTests" */;
 			buildPhases = (
 				449DF0A42E158EAA0090425C /* Sources */,
 				449DF0A52E158EAA0090425C /* Frameworks */,
@@ -146,16 +146,16 @@
 			fileSystemSynchronizedGroups = (
 				449DF0AB2E158EAA0090425C /* Speakie: Speech To Text NotesTests */,
 			);
-			name = "Speakie: Speech To Text NotesTests";
+			name = "Speakie - Speech To Text NotesTests";
 			packageProductDependencies = (
 			);
 			productName = "Speakie: Speech To Text NotesTests";
-			productReference = 449DF0A82E158EAA0090425C /* Speakie: Speech To Text NotesTests.xctest */;
+			productReference = 449DF0A82E158EAA0090425C /* Speakie - Speech To Text NotesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		449DF0B12E158EAA0090425C /* Speakie: Speech To Text NotesUITests */ = {
+		449DF0B12E158EAA0090425C /* Speakie - Speech To Text NotesUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 449DF0C32E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie: Speech To Text NotesUITests" */;
+			buildConfigurationList = 449DF0C32E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie - Speech To Text NotesUITests" */;
 			buildPhases = (
 				449DF0AE2E158EAA0090425C /* Sources */,
 				449DF0AF2E158EAA0090425C /* Frameworks */,
@@ -169,11 +169,11 @@
 			fileSystemSynchronizedGroups = (
 				449DF0B52E158EAA0090425C /* Speakie: Speech To Text NotesUITests */,
 			);
-			name = "Speakie: Speech To Text NotesUITests";
+			name = "Speakie - Speech To Text NotesUITests";
 			packageProductDependencies = (
 			);
 			productName = "Speakie: Speech To Text NotesUITests";
-			productReference = 449DF0B22E158EAA0090425C /* Speakie: Speech To Text NotesUITests.xctest */;
+			productReference = 449DF0B22E158EAA0090425C /* Speakie - Speech To Text NotesUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -199,7 +199,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 449DF08D2E158EA80090425C /* Build configuration list for PBXProject "Speakie: Speech To Text Notes" */;
+			buildConfigurationList = 449DF08D2E158EA80090425C /* Build configuration list for PBXProject "Speakie - Speech To Text Notes" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -213,9 +213,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				449DF0912E158EA80090425C /* Speakie: Speech To Text Notes */,
-				449DF0A72E158EAA0090425C /* Speakie: Speech To Text NotesTests */,
-				449DF0B12E158EAA0090425C /* Speakie: Speech To Text NotesUITests */,
+				449DF0912E158EA80090425C /* Speakie - Speech To Text Notes */,
+				449DF0A72E158EAA0090425C /* Speakie - Speech To Text NotesTests */,
+				449DF0B12E158EAA0090425C /* Speakie - Speech To Text NotesUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -271,12 +271,12 @@
 /* Begin PBXTargetDependency section */
 		449DF0AA2E158EAA0090425C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 449DF0912E158EA80090425C /* Speakie: Speech To Text Notes */;
+			target = 449DF0912E158EA80090425C /* Speakie - Speech To Text Notes */;
 			targetProxy = 449DF0A92E158EAA0090425C /* PBXContainerItemProxy */;
 		};
 		449DF0B42E158EAA0090425C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 449DF0912E158EA80090425C /* Speakie: Speech To Text Notes */;
+			target = 449DF0912E158EA80090425C /* Speakie - Speech To Text Notes */;
 			targetProxy = 449DF0B32E158EAA0090425C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -289,6 +289,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 63A2M93CTY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Speakie: Speech To Text Notes/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -316,6 +317,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 63A2M93CTY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Speakie: Speech To Text Notes/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -469,7 +471,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Speakie: Speech To Text Notes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Speakie: Speech To Text Notes";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Speakie - Speech To Text Notes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Speakie - Speech To Text Notes";
 			};
 			name = Debug;
 		};
@@ -487,7 +489,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Speakie: Speech To Text Notes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Speakie: Speech To Text Notes";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Speakie - Speech To Text Notes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Speakie - Speech To Text Notes";
 			};
 			name = Release;
 		};
@@ -526,7 +528,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		449DF08D2E158EA80090425C /* Build configuration list for PBXProject "Speakie: Speech To Text Notes" */ = {
+		449DF08D2E158EA80090425C /* Build configuration list for PBXProject "Speakie - Speech To Text Notes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				449DF0BE2E158EAA0090425C /* Debug */,
@@ -535,7 +537,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		449DF0BB2E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie: Speech To Text Notes" */ = {
+		449DF0BB2E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie - Speech To Text Notes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				449DF0BC2E158EAA0090425C /* Debug */,
@@ -544,7 +546,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		449DF0C02E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie: Speech To Text NotesTests" */ = {
+		449DF0C02E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie - Speech To Text NotesTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				449DF0C12E158EAA0090425C /* Debug */,
@@ -553,7 +555,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		449DF0C32E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie: Speech To Text NotesUITests" */ = {
+		449DF0C32E158EAA0090425C /* Build configuration list for PBXNativeTarget "Speakie - Speech To Text NotesUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				449DF0C42E158EAA0090425C /* Debug */,
