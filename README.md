@@ -1,4 +1,4 @@
-# Speakie: Speech-to-Text Notes with Grammar Correction
+# Speakie: Speech-to-Text Notes
 
 Speakie is an iOS app that captures live speech, transcribes it to text, and *can* add correct punctuation using OpenAI. It’s designed as a minimal note-taking tool that creates polished text from your voice.
 
