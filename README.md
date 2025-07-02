@@ -42,7 +42,7 @@ Meant to show how to use SFSpeechRecognizer to display audio as text in a UIText
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/speakie-speech-to-text-notes.git
+   git clone https://github.com/sashimi0/speakie-speech-to-text-notes.git
    cd speakie-speech-to-text-notes
    ```
 3.	Connect your iPhone
